@@ -1,6 +1,6 @@
 ---
 title: Sakrapee Namsak Webpage
-layout: default
+layout: post
 ---
 
 
@@ -10,4 +10,5 @@ I am a graduate student at VISTEC. Previously, I studied in mathematics at Khon 
 * Federated Learning
 * Convex and non convex optimization
 
-## Contact Me
+## News
+
