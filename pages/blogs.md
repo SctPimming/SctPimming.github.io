@@ -1,1 +1,5 @@
-These are my blog
+---
+title: Blogs
+---
+
+These are my blogs
