@@ -1,6 +1,6 @@
 ---
 title: Sakrapee Namsak Webpage
-layout: post
+layout: page
 ---
 
 
