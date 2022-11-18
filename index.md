@@ -4,7 +4,10 @@ layout: default
 ---
 
 
-## Welcome to my personal web page
-I am an engineer student at VISTEC. I am interested in machine learning and iterative methods.
+## Sakrapee Namsak
+I am a graduate student at VISTEC. Previously, I studied in mathematics at Khon Kaen University. My Current research topic included
+* Iterative Method
+* Federated Learning
+* Convex and non convex optimization
 
 ## Contact Me
