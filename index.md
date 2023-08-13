@@ -21,7 +21,8 @@ I am Sakrapee Namsak, a second-year master student at VISTEC. I am advised by [D
 * 2018 - 2022 Instructor for Thailand Olympiad in Informatics, Khon Kaen University
   
 ## Publications 
-* <u> Namsak, S. </u> , Petrot, N. & Nimana, N. (2023). A distributed proximal gradient method with time-varying delays for solving additive convex optimizations. Results in Applied Mathematics, 18, 100370 [PDF](https://www.sciencedirect.com/science/article/pii/S259003742300016X)
+* <u> Namsak, S. </u> , Petrot, N. & Nimana, N. (2023). A distributed proximal gradient method with time-varying delays for solving additive convex optimizations. Results in Applied Mathematics, 18, 100370 [[PDF]](https://www.sciencedirect.com/science/article/pii/S259003742300016X)
+
   
 ## Honors
 * Full Scholarship-Master degree, Vidyasirimedhi Institute of Science and Technology (VISTEC), 2022 - 2023
@@ -29,3 +30,5 @@ I am Sakrapee Namsak, a second-year master student at VISTEC. I am advised by [D
 * Honors for Academic Excellence, Khon Kaen University, 2019 - 2022
 * Full Scholarship-undergraduate degree, The Development and Promotion of Science and Technology Talents Project (DPST) from Government of Thailand, 2018 - 2022
 
+## Miscellaneous
+I really enjoy running, playing board games, and reading mystery novels.
