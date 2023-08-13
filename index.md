@@ -3,6 +3,7 @@ title: About Me
 layout: default
 ---
 
+![My profile picture](https://drive.google.com/file/d/1rDKoz45pmf332HrRpoF5LTqnCOao9VvF/view?usp=sharing)
 
 I am Sakrapee Namsak, a second-year master student at VISTEC. I am advised by [Dr. Sucha Supittayapornpong](https://vistec.ist/faculty-member/sucha), in the [Network and Decision Systems (NDS) Lab](https://vistec.ist/network). My Current research topic included
 * Iterative Method
