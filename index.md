@@ -4,10 +4,18 @@ layout: default
 ---
 <div> <img src="https://drive.google.com/uc?id=1rDKoz45pmf332HrRpoF5LTqnCOao9VvF" style="width:180px;height:256px;margin-left:15px; margin-right:15px;float:right;"/>
   
-I am Sakrapee Namsak, a second-year master student at Vidyasirimedhi Institute of Science and Technology (VISTEC). I am advised by <a href="https://vistec.ist/faculty-member/sucha">Dr. Sucha Supittayapornpong</a>, in the <a href="https://vistec.ist/network">Network and Decision Systems (NDS) Lab</a>. My Current research topic included Iterative Method, Federated Learning, and Convex and non-convex optimization.
-  
-</div>
+I am Sakrapee Namsak, a second-year master student at Vidyasirimedhi Institute of Science and Technology (VISTEC). I am advised by <a href="https://vistec.ist/faculty-member/sucha">Dr. Sucha Supittayapornpong</a>, in the <a href="https://vistec.ist/network">Network and Decision Systems (NDS) Lab</a>. My Current research topic included 
+<ul>
+  <li>Iterative Method</li>
+  <li>Federated Learning</li>
+  <li>Convex and non-convex optimization</li>
+</ul>  
+ 
+<br>
 
+Email/ CV/ Google Scholar
+</div>
+<hr>
 
 ## News
 * August 4th, 2023 – Our paper on [An Asynchronous Subgradient-Proximal Method for Solving Additive Convex Optimization Problems] is accepted for publication in Journal of Applied Mathematics and Computing.
