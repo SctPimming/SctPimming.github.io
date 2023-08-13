@@ -15,7 +15,6 @@ I am Sakrapee Namsak, a second-year master student at Vidyasirimedhi Institute o
 
 Email/ CV/ Google Scholar
 </div>
-<hr>
 
 ## News
 * August 4th, 2023 – Our paper on [An Asynchronous Subgradient-Proximal Method for Solving Additive Convex Optimization Problems] is accepted for publication in Journal of Applied Mathematics and Computing.
