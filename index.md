@@ -2,9 +2,9 @@
 title: About Me
 layout: default
 ---
-<div> <img src="https://drive.google.com/uc?id=1rDKoz45pmf332HrRpoF5LTqnCOao9VvF" style="width:85px;height:128px;margin-left:15px; margin-right:15px;float:right;"/>
+<div> <img src="https://drive.google.com/uc?id=1rDKoz45pmf332HrRpoF5LTqnCOao9VvF" style="width:180px;height:256px;margin-left:15px; margin-right:15px;float:right;"/>
   
-I am Sakrapee Namsak, a second-year master student at VISTEC. I am advised by <a href="https://vistec.ist/faculty-member/sucha">Dr. Sucha Supittayapornpong</a>, in the <a href="https://vistec.ist/network">Network and Decision Systems (NDS) Lab</a>. My Current research topic included Iterative Method, Federated Learning, and Convex and non-convex optimization.
+I am Sakrapee Namsak, a second-year master student at Vidyasirimedhi Institute of Science and Technology (VISTEC). I am advised by <a href="https://vistec.ist/faculty-member/sucha">Dr. Sucha Supittayapornpong</a>, in the <a href="https://vistec.ist/network">Network and Decision Systems (NDS) Lab</a>. My Current research topic included Iterative Method, Federated Learning, and Convex and non-convex optimization.
   
 </div>
 
