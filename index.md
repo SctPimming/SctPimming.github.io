@@ -17,6 +17,7 @@ I am Sakrapee Namsak, a second-year master student at VISTEC. I am advised by [D
 * December 2021 - November 2022/ Undergraduate research/ Department of Imaging and Printing Technology, Chulalongkorn University (Bangkok, Thailand)
 * August 2021 - June 2022/ Undergraduate research/ Department of Mathematics, Khon Kaen University (Khon Kaen, Thailand)
 * March 2019 - June 2019/ Summer project/ Department of Mathematics, Khon Kaen University (Khon Kaen, Thailand)
+  
 ## Teaching Experience and Services
 * 2018 - 2022 Instructor for Thailand Olympiad in Informatics, Khon Kaen University
   
