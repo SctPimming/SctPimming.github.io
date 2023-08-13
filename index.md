@@ -2,17 +2,13 @@
 title: About Me
 layout: default
 ---
-<div>
-<p align="right">
-  <img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ssnv7WkAAAAJ&citpid=5" width="85" height="128"/>
-</p>
-<div align ="left">
+<div><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ssnv7WkAAAAJ&citpid=5" width="85" height="128" float="right"/>
 I am Sakrapee Namsak, a second-year master student at VISTEC. I am advised by [Dr. Sucha Supittayapornpong](https://vistec.ist/faculty-member/sucha), in the [Network and Decision Systems (NDS) Lab](https://vistec.ist/network). My Current research topic included
 * Iterative Method
 * Federated Learning
 * Convex and non-convex optimization
 </div>
-</div>
+
 
 ## News
 * August 4th, 2023 – Our paper on [An Asynchronous Subgradient-Proximal Method for Solving Additive Convex Optimization Problems] is accepted for publication in Journal of Applied Mathematics and Computing.
