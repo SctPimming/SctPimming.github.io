@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: Sakrapee Namsak
 layout: default
 ---
 <div> <img src="https://drive.google.com/uc?id=1rDKoz45pmf332HrRpoF5LTqnCOao9VvF" style="width:180px;height:256px;margin-left:15px; margin-right:15px;float:right;"/>
@@ -13,7 +13,7 @@ I am Sakrapee Namsak, a second-year master student at Vidyasirimedhi Institute o
  
 <br>
 
-Email/ CV/ Google Scholar
+Email/ CV/ <a href = "https://scholar.google.com/citations?user=ssnv7WkAAAAJ&hl=en"> Google Scholar </a>
 </div>
 <br>
 
