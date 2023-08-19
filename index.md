@@ -18,7 +18,7 @@ Email/ CV/ <a href = "https://scholar.google.com/citations?user=ssnv7WkAAAAJ&hl=
 <br>
 
 ## News
-* August 4th, 2023 – Our paper on [An Asynchronous Subgradient-Proximal Method for Solving Additive Convex Optimization Problems] is accepted for publication in Journal of Applied Mathematics and Computing.
+* August 4th, 2023 – Our paper on [An Asynchronous Subgradient-Proximal Method for Solving Additive Convex Optimization Problems](https://link.springer.com/article/10.1007/s12190-023-01908-1)is accepted for publication in Journal of Applied Mathematics and Computing.
 * April 6th, 2023 – Our paper on [A distributed proximal gradient method with time-varying delays for solving additive convex optimizations](https://www.sciencedirect.com/science/article/pii/S259003742300016X) is accepted for publication in Results in Applied Mathematics.
 
 ## Research and Work Experiences
@@ -30,6 +30,7 @@ Email/ CV/ <a href = "https://scholar.google.com/citations?user=ssnv7WkAAAAJ&hl=
 * 2018 - 2022 Instructor for Thailand Olympiad in Informatics, Khon Kaen University
   
 ## Publications 
+* Arunrat, T., <u> Namsak, S. </u> & Nimana, N. (2023). An asynchronous subgradient-proximal method for solving additive convex optimization problems. J. Appl. Math. Comput. (Article in Press). DOI: 10.1007/s12190-023-01908-1 [[LINK]](https://link.springer.com/article/10.1007/s12190-023-01908-1)
 * <u> Namsak, S. </u> , Petrot, N. & Nimana, N. (2023). A distributed proximal gradient method with time-varying delays for solving additive convex optimizations. Results in Applied Mathematics, 18, 100370 [[PDF]](https://www.sciencedirect.com/science/article/pii/S259003742300016X)
 
   
